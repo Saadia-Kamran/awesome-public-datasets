@@ -236,7 +236,7 @@ GIS
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
 * `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world, including elevation <http://www.naturalearthdata.com/>`_
-* `Additional sources of elevation data <http://vterrain.org/Elevation/global.html>`'
+* `Additional sources of elevation data <http://vterrain.org/Elevation/global.html>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
