@@ -250,11 +250,11 @@ GIS - Regional
 --------------
 
 GIS - California
-+++++++++++++++++++++
+"""""""""""""""""""
 Large amounts of this section originally from this gist <https://gist.github.com/nickrsan/958cd0471c4612ec6fba86ae7aeb3c7a>`
 
 Hydrology
-""""""""""
+++++++++++
 * `CDEC <ttp://cdec.water.ca.gov/>`: historical and real-time reservoir storage, inflows, outflows, stream gauges, snowpack 
 * [USGS daily streamflow](http://waterdata.usgs.gov/ca/nwis/current/?type=dailydischarge&group_key=county_cd)
 * [USGS all sites](http://maps.waterdata.usgs.gov/mapper/?state=ca)
@@ -272,14 +272,14 @@ Hydrology
 * [Sierra Nevada Meadows Dataset](https://meadows.ucdavis.edu)
 
 Energy
-""""""""
++++++++
 * [CEC all power plants](http://energyalmanac.ca.gov/electricity/)
 * [CEC Hydropower](http://www.energyalmanac.ca.gov/renewables/hydro/)
 * [Historical (2000-) wholesale electricity prices](http://www.eia.gov/electricity/wholesale/)
 * [Generation sources](https://www.eia.gov/electricity/data/state/)
 
 Consumption
-""""""""""""
+++++++++++++
 * [USGS water use, 5-year timestep](http://waterdata.usgs.gov/ca/nwis/water_use/)
 * [DWR land use](http://www.water.ca.gov/landwateruse/anlwuest.cfm): Ag demand and land use estimates by county/DAU from 1998-2010 (annual)
 * [DWR UWMP data](http://www.water.ca.gov/urbanwatermanagement/2010_Urban_Water_Management_Plan_Data.cfm): Urban water management plan ([2015 update](https://wuedata.water.ca.gov/))
@@ -289,24 +289,24 @@ Consumption
 * [SWRCB WRUDS](http://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/): "Average Demand"
 
 Shapefiles
-"""""""""""
++++++++++++
 * [DWR Planning areas, DAUs, watersheds, etc](http://www.waterplan.water.ca.gov/maps/)
 * [CEHTP Public Water System boundaries](http://www.ehib.org/page.jsp?page_key=762)
 * [USGS NHD](http://nhd.usgs.gov/data.html)
 
 Water Rights
-"""""""""""""
++++++++++++++
 * [New CA Water Atlas](https://github.com/NewCaliforniaWaterAtlas/data-water-rights)
 
 USBR CVP Mid-Pacific
-"""""""""""""""""""""
+++++++++++++++++++++++
 * [Operations, contractors, deliveries](http://www.usbr.gov/mp/PA/water/)
 * [Monthly reports](http://www.usbr.gov/mp/cvo/Mo_Rpts_Prev.html)
 * [2008 report on CVP/SWP water yield](http://www.usbr.gov/mp/cvp/docs/Water%20Supply%20and%20Yield%20Study.pdf)
 * [Irrigation district WMPs](http://www.usbr.gov/mp/watershare/wcplans/)
 
 SWP Operations
-"""""""""""""""
++++++++++++++++
 * [Project-wide](http://water.ca.gov/swp/operationscontrol/projectwide.cfm)
 * [Monthly operations](http://www.water.ca.gov/swp/operationscontrol/monthly.cfm)
 * [Contractors list](http://www.swc.org/about-us/member-agencies-list)
@@ -316,7 +316,7 @@ SWP Operations
 * [Water plan technical details](http://www.waterplan.water.ca.gov/technical/cwpu2013/index.cfm)
 
 Agriculture
-""""""""""""
+++++++++++++
 * [County commissioners' reports](http://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/Detail/index.asp)
 * [Land cover by crop type](http://nassgeodata.gmu.edu/CropScape/)
 * [Crop prices](http://faostat3.fao.org/download/P/PA/E)
@@ -325,9 +325,13 @@ Agriculture
 * [Farm production expenses](http://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/production-expenses.aspx#P06e29ac16a7244cfa6bd81eb5a712540_2_151iT0R0x5)
 
 Fish
-"""""
++++++++++
 * [DFW Abundance Surveys](http://www.dfg.ca.gov/delta/data/)
 * [PISCES fish database](https://pisces.ucdavis.edu)
+
+GIS - Other Regions
+"""""""""""""""""""""
+No sources yet.
 
 
 Government
