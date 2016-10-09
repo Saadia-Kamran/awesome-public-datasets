@@ -232,14 +232,15 @@ GIS
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Homeland Infrastructure Foundation-Level Data <https://hifld-dhs-gii.opendata.arcgis.com/>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
+* `Data browser for Landsat 8 and Sentinel 2 <https://remotepixel.ca/projects/satellitesearch.html>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
 * `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
-* `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
+* `Natural Earth - vectors and rasters of the world, including elevation <http://www.naturalearthdata.com/>`_
+* `Additional sources of elevation data <http://vterrain.org/Elevation/global.html>`'
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
 * `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://data.ub.uni-muenchen.de/61/>`_
-* `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
@@ -248,6 +249,17 @@ GIS
 
 GIS - Regional
 --------------
+
+GIS - United States
+""""""""""""""""""""
+* `US Hydrography (Rivers, Lakes, etc) - NHDPlus <http://www.horizon-systems.com/nhdplus/>`'
+* `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* `National Land Cover Dataset <http://www.mrlc.gov/finddata.php>`_
+* `Protected Areas Dataset (PAD-US) <http://gapanalysis.usgs.gov/padus/>`_
+* `USGS Water Flow Data <http://waterdata.usgs.gov/nwis>`_
+* `USGS National Map Viewer (Find other data) <https://viewer.nationalmap.gov/viewer/>`_
+* `American Factfinder: Census data (demographics, economic, etc) <http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml>`_
+* `NRCS Geospatial Data Gateway (climate, geology, soils, imagery, and more) <https://gdg.sc.egov.usda.gov/GDGOrder.aspx>`_
 
 GIS - California
 """""""""""""""""""
@@ -328,11 +340,6 @@ Fish
 +++++++++
 * `DFW Abundance Surveys <http://www.dfg.ca.gov/delta/data/>`_
 * `PISCES fish database <https://pisces.ucdavis.edu>`_
-
-GIS - Other Regions
-"""""""""""""""""""""
-No sources yet.
-
 
 Government
 ----------
