@@ -1,9 +1,5 @@
 Public Datasets
 =======================
-.. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-   :alt: Awesome
-   :target: https://github.com/sindresorhus/awesome
-
 `This list of public data sources was originally compiled here.<https://github.com/caesar0301/awesome-public-datasets>`_
 Sources are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
@@ -254,7 +250,7 @@ GIS - Regional
 --------------
 
 GIS - California
-''''''''''''''''''
++++++++++++++++++++++
 Large amounts of this section originally from this gist <https://gist.github.com/nickrsan/958cd0471c4612ec6fba86ae7aeb3c7a>`
 
 Hydrology
