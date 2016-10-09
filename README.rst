@@ -1,6 +1,6 @@
 Public Datasets
 =======================
-`This list of public data sources was originally compiled here.<https://github.com/caesar0301/awesome-public-datasets>`_
+`This list of public data sources was originally compiled here <https://github.com/caesar0301/awesome-public-datasets>`_.
 Sources are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 
@@ -251,83 +251,83 @@ GIS - Regional
 
 GIS - California
 """""""""""""""""""
-Large amounts of this section originally from this gist <https://gist.github.com/nickrsan/958cd0471c4612ec6fba86ae7aeb3c7a>`
+Large amounts of this section originally from `this gist <https://gist.github.com/nickrsan/958cd0471c4612ec6fba86ae7aeb3c7a>`_.
 
 Hydrology
 ++++++++++
-* `CDEC <ttp://cdec.water.ca.gov/>`: historical and real-time reservoir storage, inflows, outflows, stream gauges, snowpack 
-* [USGS daily streamflow](http://waterdata.usgs.gov/ca/nwis/current/?type=dailydischarge&group_key=county_cd)
-* [USGS all sites](http://maps.waterdata.usgs.gov/mapper/?state=ca)
-* [NRCS snotel site data](http://www.wcc.nrcs.usda.gov/snow/snotel-wedata.html)
-* [NOAA Historical precip/temp](http://www.ncdc.noaa.gov/cdo-web/): at individual stations
-* [DWR Full Natural Flows 1922-2003](http://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/bay_delta_plan/water_quality_control_planning/docs/sjrf_spprtinfo/dwr_2007a.pdf)
-* [NOAA/NWS RFC Archive](http://www.cnrfc.noaa.gov/arc_search.php)
-* [Paleo Reconstruction](http://treeflow.info/california)
-* [Dayflow (Delta outflows)](http://www.water.ca.gov/dayflow/output/Output.cfm)
-* [MOPEX](http://tdwg.catchment.org/datasets.html)
-* [Groundwater](http://www.water.ca.gov/waterdatalibrary/groundwater/)
-* [NOAA ClimDiv](http://www1.ncdc.noaa.gov/pub/data/cirs/climdiv/): historical drought indices
-* [DWR precip indices](http://cdec.water.ca.gov/snow_rain.html) 8-station index, etc
-* [CA Dams](http://www.water.ca.gov/damsafety/damlisting/index.cfm)
-* [Sierra Nevada Meadows Dataset](https://meadows.ucdavis.edu)
+* `CDEC <http://cdec.water.ca.gov/>`_: historical and real-time reservoir storage, inflows, outflows, stream gauges, snowpack 
+* `USGS daily streamflow <http://waterdata.usgs.gov/ca/nwis/current/?type=dailydischarge&group_key=county_cd>`_
+* `USGS all sites <http://maps.waterdata.usgs.gov/mapper/?state=ca>`_
+* `NRCS snotel site data <http://www.wcc.nrcs.usda.gov/snow/snotel-wedata.html>`_
+* `NOAA Historical precip/temp <http://www.ncdc.noaa.gov/cdo-web/>`_: at individual stations
+* `DWR Full Natural Flows 1922-2003 <http://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/bay_delta_plan/water_quality_control_planning/docs/sjrf_spprtinfo/dwr_2007a.pdf>`_
+* `NOAA/NWS RFC Archive <http://www.cnrfc.noaa.gov/arc_search.php>`_
+* `Paleo Reconstruction <http://treeflow.info/california>`_
+* `Dayflow (Delta outflows) <http://www.water.ca.gov/dayflow/output/Output.cfm>`_
+* `MOPEX <http://tdwg.catchment.org/datasets.html>`_
+* `Groundwater <http://www.water.ca.gov/waterdatalibrary/groundwater/>`_
+* `NOAA ClimDiv <http://www1.ncdc.noaa.gov/pub/data/cirs/climdiv/>`_: historical drought indices
+* `DWR precip indices <http://cdec.water.ca.gov/snow_rain.html>`_ 8-station index, etc
+* `CA Dams <http://www.water.ca.gov/damsafety/damlisting/index.cfm>`_
+* `Sierra Nevada Meadows Dataset <https://meadows.ucdavis.edu>`_
 
 Energy
 +++++++
-* [CEC all power plants](http://energyalmanac.ca.gov/electricity/)
-* [CEC Hydropower](http://www.energyalmanac.ca.gov/renewables/hydro/)
-* [Historical (2000-) wholesale electricity prices](http://www.eia.gov/electricity/wholesale/)
-* [Generation sources](https://www.eia.gov/electricity/data/state/)
+* `CEC all power plants <http://energyalmanac.ca.gov/electricity/>`_
+* `CEC Hydropower <http://www.energyalmanac.ca.gov/renewables/hydro/>`_
+* `Historical (2000-) wholesale electricity prices <http://www.eia.gov/electricity/wholesale/>`_
+* `Generation sources <https://www.eia.gov/electricity/data/state/>`_
 
 Consumption
 ++++++++++++
-* [USGS water use, 5-year timestep](http://waterdata.usgs.gov/ca/nwis/water_use/)
-* [DWR land use](http://www.water.ca.gov/landwateruse/anlwuest.cfm): Ag demand and land use estimates by county/DAU from 1998-2010 (annual)
-* [DWR UWMP data](http://www.water.ca.gov/urbanwatermanagement/2010_Urban_Water_Management_Plan_Data.cfm): Urban water management plan ([2015 update](https://wuedata.water.ca.gov/))
-* [SWRCB conservation reports](http://www.waterboards.ca.gov/water_issues/programs/conservation_portal/conservation_reporting.shtml)
-* [California Water Network](http://hobbes.ucdavis.edu/node) 
-* [SWRCB eWRIMS](https://ciwqs.waterboards.ca.gov/ciwqs/ewrims/EWMenuPublic.jsp)
-* [SWRCB WRUDS](http://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/): "Average Demand"
+* `USGS water use, 5-year timestep <http://waterdata.usgs.gov/ca/nwis/water_use/>`_
+* `DWR land use <http://www.water.ca.gov/landwateruse/anlwuest.cfm>`_: Ag demand and land use estimates by county/DAU from 1998-2010 (annual)
+* `DWR UWMP data <http://www.water.ca.gov/urbanwatermanagement/2010_Urban_Water_Management_Plan_Data.cfm>`_: Urban water management plan (`2015 update <https://wuedata.water.ca.gov/>`_)
+* `SWRCB conservation reports <http://www.waterboards.ca.gov/water_issues/programs/conservation_portal/conservation_reporting.shtml>`_
+* `California Water Network <http://hobbes.ucdavis.edu/node>`_ 
+* `SWRCB eWRIMS <https://ciwqs.waterboards.ca.gov/ciwqs/ewrims/EWMenuPublic.jsp>`_
+* `SWRCB WRUDS <http://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/>`_: "Average Demand"
 
 Shapefiles
 +++++++++++
-* [DWR Planning areas, DAUs, watersheds, etc](http://www.waterplan.water.ca.gov/maps/)
-* [CEHTP Public Water System boundaries](http://www.ehib.org/page.jsp?page_key=762)
-* [USGS NHD](http://nhd.usgs.gov/data.html)
+* `DWR Planning areas, DAUs, watersheds, etc <http://www.waterplan.water.ca.gov/maps/>`_
+* `CEHTP Public Water System boundaries <http://www.ehib.org/page.jsp?page_key=762>`_
+* `USGS NHD <http://nhd.usgs.gov/data.html>`_
 
 Water Rights
 +++++++++++++
-* [New CA Water Atlas](https://github.com/NewCaliforniaWaterAtlas/data-water-rights)
+* `New CA Water Atlas <https://github.com/NewCaliforniaWaterAtlas/data-water-rights>`_
 
 USBR CVP Mid-Pacific
 ++++++++++++++++++++++
-* [Operations, contractors, deliveries](http://www.usbr.gov/mp/PA/water/)
-* [Monthly reports](http://www.usbr.gov/mp/cvo/Mo_Rpts_Prev.html)
-* [2008 report on CVP/SWP water yield](http://www.usbr.gov/mp/cvp/docs/Water%20Supply%20and%20Yield%20Study.pdf)
-* [Irrigation district WMPs](http://www.usbr.gov/mp/watershare/wcplans/)
+* `Operations, contractors, deliveries <http://www.usbr.gov/mp/PA/water/>`_
+* `Monthly reports <http://www.usbr.gov/mp/cvo/Mo_Rpts_Prev.html>`_
+* `2008 report on CVP/SWP water yield <http://www.usbr.gov/mp/cvp/docs/Water%20Supply%20and%20Yield%20Study.pdf>`_
+* `Irrigation district WMPs <http://www.usbr.gov/mp/watershare/wcplans/>`_
 
 SWP Operations
 +++++++++++++++
-* [Project-wide](http://water.ca.gov/swp/operationscontrol/projectwide.cfm)
-* [Monthly operations](http://www.water.ca.gov/swp/operationscontrol/monthly.cfm)
-* [Contractors list](http://www.swc.org/about-us/member-agencies-list)
-* [Reliability report (CALSIM II)](http://baydeltaoffice.water.ca.gov/swpreliability/)
-* [SWP analysis office](http://www.water.ca.gov/swpao/): contractors, maximum allocations 
-* [2013 Water Plan Update](http://www.waterplan.water.ca.gov/cwpu2013/final/index.cfm)
-* [Water plan technical details](http://www.waterplan.water.ca.gov/technical/cwpu2013/index.cfm)
+* `Project-wide <http://water.ca.gov/swp/operationscontrol/projectwide.cfm>`_
+* `Monthly operations <http://www.water.ca.gov/swp/operationscontrol/monthly.cfm>`_
+* `Contractors list <http://www.swc.org/about-us/member-agencies-list>`_
+* `Reliability report (CALSIM II) <http://baydeltaoffice.water.ca.gov/swpreliability/>`_
+* `SWP analysis office <http://www.water.ca.gov/swpao/>`_: contractors, maximum allocations 
+* `2013 Water Plan Update <http://www.waterplan.water.ca.gov/cwpu2013/final/index.cfm>`_
+* `Water plan technical details <http://www.waterplan.water.ca.gov/technical/cwpu2013/index.cfm>`_
 
 Agriculture
 ++++++++++++
-* [County commissioners' reports](http://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/Detail/index.asp)
-* [Land cover by crop type](http://nassgeodata.gmu.edu/CropScape/)
-* [Crop prices](http://faostat3.fao.org/download/P/PA/E)
-* [Search by crop type](http://quickstats.nass.usda.gov/#7C3B21B8-CCBE-3D0B-BBD5-2F057870134F)
-* [Irrigation ET](http://www.itrc.org/etdata/waterbal.htm)
-* [Farm production expenses](http://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/production-expenses.aspx#P06e29ac16a7244cfa6bd81eb5a712540_2_151iT0R0x5)
+* `County commissioners' reports <http://www.nass.usda.gov/Statistics_by_State/California/Publications/AgComm/Detail/index.asp>`_
+* `Land cover by crop type <http://nassgeodata.gmu.edu/CropScape/>`_
+* `Crop prices <http://faostat3.fao.org/download/P/PA/E>`_
+* `Search by crop type <http://quickstats.nass.usda.gov/#7C3B21B8-CCBE-3D0B-BBD5-2F057870134F>`_
+* `Irrigation ET <http://www.itrc.org/etdata/waterbal.htm>`_
+* `Farm production expenses <http://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/production-expenses.aspx#P06e29ac16a7244cfa6bd81eb5a712540_2_151iT0R0x5>`_
 
 Fish
 +++++++++
-* [DFW Abundance Surveys](http://www.dfg.ca.gov/delta/data/)
-* [PISCES fish database](https://pisces.ucdavis.edu)
+* `DFW Abundance Surveys <http://www.dfg.ca.gov/delta/data/>`_
+* `PISCES fish database <https://pisces.ucdavis.edu>`_
 
 GIS - Other Regions
 """""""""""""""""""""
