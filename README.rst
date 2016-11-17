@@ -253,7 +253,7 @@ GIS - Regional
 
 GIS - United States
 """"""""""""""""""""
-* `US Hydrography (Rivers, Lakes, etc) - NHDPlus <http://www.horizon-systems.com/nhdplus/>`'
+* `US Hydrography (Rivers, Lakes, etc) - NHDPlus <http://www.horizon-systems.com/nhdplus/>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `National Land Cover Dataset <http://www.mrlc.gov/finddata.php>`_
 * `Protected Areas Dataset (PAD-US) <http://gapanalysis.usgs.gov/padus/>`_
