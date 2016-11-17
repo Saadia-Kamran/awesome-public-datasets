@@ -336,6 +336,7 @@ Agriculture
 * `Search by crop type <http://quickstats.nass.usda.gov/#7C3B21B8-CCBE-3D0B-BBD5-2F057870134F>`_
 * `Irrigation ET <http://www.itrc.org/etdata/waterbal.htm>`_
 * `Farm production expenses <http://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/production-expenses.aspx#P06e29ac16a7244cfa6bd81eb5a712540_2_151iT0R0x5>`_
+* `DWR Land Use (Crop) data <http://www.water.ca.gov/landwateruse/lusrvymain.cfm>`_
 
 Fish
 +++++++++
