@@ -342,6 +342,10 @@ Fish
 * `DFW Abundance Surveys <http://www.dfg.ca.gov/delta/data/>`_
 * `PISCES fish database <https://pisces.ucdavis.edu>`_
 
+GIS - Australia
+""""""""""""""""""""
+* `CSIRO Data Portal <https://data.csiro.au>`_
+
 Government
 ----------
 
