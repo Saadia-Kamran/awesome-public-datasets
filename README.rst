@@ -266,6 +266,10 @@ GIS - California
 """""""""""""""""""
 Large amounts of this section originally from `this gist <https://gist.github.com/nickrsan/958cd0471c4612ec6fba86ae7aeb3c7a>`_.
 
+Portals with many data themes
+++++++++++++++++++++++++++++++
+* `Department of Conservation Map Viewer <https://maps.conservation.ca.gov/>`_
+
 Hydrology
 ++++++++++
 * `CDEC <http://cdec.water.ca.gov/>`_: historical and real-time reservoir storage, inflows, outflows, stream gauges, snowpack 
