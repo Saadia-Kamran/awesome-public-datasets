@@ -223,6 +223,7 @@ Finance
 GIS
 ---
 
+* `Global Landcover Data Time Series (1992-2015) <http://maps.elie.ucl.ac.be/CCI/viewer/>`_
 * `Worldwide data discovery portal <http://opendatadiscovery.org/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
