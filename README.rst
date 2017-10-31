@@ -296,6 +296,11 @@ Energy
 * `Historical (2000-) wholesale electricity prices <http://www.eia.gov/electricity/wholesale/>`_
 * `Generation sources <https://www.eia.gov/electricity/data/state/>`_
 
+High-Res Elevation and Bathymetry
+++++++++++++++++++++++++++++++++++
+
+* `Seafloor mapping lab: bathymetry portal <http://seafloor.csumb.edu/csmp/csmp_datacatalog.html>`_
+
 Consumption
 ++++++++++++
 * `USGS water use, 5-year timestep <http://waterdata.usgs.gov/ca/nwis/water_use/>`_
