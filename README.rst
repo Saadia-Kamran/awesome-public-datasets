@@ -233,6 +233,7 @@ GIS
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Homeland Infrastructure Foundation-Level Data <https://hifld-dhs-gii.opendata.arcgis.com/>`_
+* `HydroSHEDS: Global hydrographic data at 90m resolution <http://www.hydrosheds.org/>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `Data browser for Landsat 8 and Sentinel 2 <https://remotepixel.ca/projects/satellitesearch.html>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
