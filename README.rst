@@ -259,6 +259,7 @@ GIS - United States
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `National Land Cover Dataset <http://www.mrlc.gov/finddata.php>`_
 * `Protected Areas Dataset (PAD-US) <http://gapanalysis.usgs.gov/padus/>`_
+* `Estimated Private Domestic Wells <https://geodata.epa.gov/arcgis/rest/services/ORD/Estimated_Private_Domestic_Wells/MapServer>`
 * `USGS Water Flow Data <http://waterdata.usgs.gov/nwis>`_
 * `USGS National Map Viewer (Find other data) <https://viewer.nationalmap.gov/viewer/>`_
 * `American Factfinder: Census data (demographics, economic, etc) <http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml>`_
