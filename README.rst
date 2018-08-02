@@ -222,7 +222,7 @@ Finance
 
 GIS
 ---
-
+* `Plant.Parts: List of Near-Realtime Earth Observation Data Sources <https://planet.parts/>`_
 * `Global Landcover Data Time Series (1992-2015) <http://maps.elie.ucl.ac.be/CCI/viewer/>`_
 * `Worldwide data discovery portal <http://opendatadiscovery.org/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
