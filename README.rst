@@ -278,6 +278,7 @@ Hydrology
 * `CDEC <http://cdec.water.ca.gov/>`_: historical and real-time reservoir storage, inflows, outflows, stream gauges, snowpack 
 * `USGS daily streamflow <http://waterdata.usgs.gov/ca/nwis/current/?type=dailydischarge&group_key=county_cd>`_
 * `USGS all sites <http://maps.waterdata.usgs.gov/mapper/?state=ca>`_
+* `Gage Gap: An analysis of California's stream gage network <https://gagegap.codefornature.org/>`_
 * `NRCS snotel site data <http://www.wcc.nrcs.usda.gov/snow/snotel-wedata.html>`_
 * `NOAA Historical precip/temp <http://www.ncdc.noaa.gov/cdo-web/>`_: at individual stations
 * `DWR Full Natural Flows 1922-2003 <http://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/bay_delta_plan/water_quality_control_planning/docs/sjrf_spprtinfo/dwr_2007a.pdf>`_
@@ -313,11 +314,10 @@ Consumption
 * `SWRCB eWRIMS <https://ciwqs.waterboards.ca.gov/ciwqs/ewrims/EWMenuPublic.jsp>`_
 * `SWRCB WRUDS <http://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/>`_: "Average Demand"
 
-Shapefiles
+Boundaries
 +++++++++++
 * `DWR Planning areas, DAUs, watersheds, etc <http://www.waterplan.water.ca.gov/maps/>`_
 * `CEHTP Public Water System boundaries <http://www.ehib.org/page.jsp?page_key=762>`_
-* `USGS NHD <http://nhd.usgs.gov/data.html>`_
 
 Water Rights
 +++++++++++++
@@ -350,10 +350,11 @@ Agriculture
 * `Farm production expenses <http://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/production-expenses.aspx#P06e29ac16a7244cfa6bd81eb5a712540_2_151iT0R0x5>`_
 * `DWR Land Use (Crop) data <http://www.water.ca.gov/landwateruse/lusrvymain.cfm>`_
 
-Fish
+Species
 +++++++++
 * `DFW Abundance Surveys <http://www.dfg.ca.gov/delta/data/>`_
 * `PISCES fish database <https://pisces.ucdavis.edu>`_
+* `Calfiornia Freshwater Species Database (Aquarius) <https://www.scienceforconservation.org/products/california-freshwater-species-database>`_
 
 GIS - Australia
 """"""""""""""""""""
