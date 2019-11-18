@@ -264,6 +264,7 @@ GIS - United States
 * `USGS National Map Viewer (Find other data) <https://viewer.nationalmap.gov/viewer/>`_
 * `American Factfinder: Census data (demographics, economic, etc) <http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml>`_
 * `NRCS Geospatial Data Gateway (climate, geology, soils, imagery, and more) <https://gdg.sc.egov.usda.gov/GDGOrder.aspx>`_
+* `eDNA Species Occurence Database <https://www.fs.fed.us/rm/boise/AWAE/projects/the-aquatic-eDNAtlas-project.html>`_
 
 GIS - California
 """""""""""""""""""
