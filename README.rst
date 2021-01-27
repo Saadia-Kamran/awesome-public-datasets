@@ -272,7 +272,29 @@ Large amounts of this section originally from `this gist <https://gist.github.co
 
 Portals with many data themes
 ++++++++++++++++++++++++++++++
+* `California Open Data Portal <https://data.ca.gov/>`_
+* `Natural Resources Agency Data Portal <https://data.cnra.ca.gov/>`_
 * `Department of Conservation Map Viewer <https://maps.conservation.ca.gov/>`_
+
+Agriculture
++++++++++++
+* `DWR Crop Land Use Maps <https://data.cnra.ca.gov/dataset/statewide-crop-mapping>`
+
+Environment, Ecology, and Human Interactions
+++++++++++++++++++++++++++++++++++++++++++++
+* `CalEnviroScreen <https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30>`_
+
+Energy
++++++++
+* `CEC all power plants <http://energyalmanac.ca.gov/electricity/>`_
+* `CEC Hydropower <http://www.energyalmanac.ca.gov/renewables/hydro/>`_
+* `Historical (2000-) wholesale electricity prices <http://www.eia.gov/electricity/wholesale/>`_
+* `Generation sources <https://www.eia.gov/electricity/data/state/>`_
+
+High-Res Elevation and Bathymetry
+++++++++++++++++++++++++++++++++++
+
+* `Seafloor mapping lab: bathymetry portal <http://seafloor.csumb.edu/csmp/csmp_datacatalog.html>`_
 
 Hydrology
 ++++++++++
@@ -292,18 +314,6 @@ Hydrology
 * `DWR precip indices <http://cdec.water.ca.gov/snow_rain.html>`_ 8-station index, etc
 * `CA Dams <http://www.water.ca.gov/damsafety/damlisting/index.cfm>`_
 * `Sierra Nevada Meadows Dataset <https://meadows.ucdavis.edu>`_
-
-Energy
-+++++++
-* `CEC all power plants <http://energyalmanac.ca.gov/electricity/>`_
-* `CEC Hydropower <http://www.energyalmanac.ca.gov/renewables/hydro/>`_
-* `Historical (2000-) wholesale electricity prices <http://www.eia.gov/electricity/wholesale/>`_
-* `Generation sources <https://www.eia.gov/electricity/data/state/>`_
-
-High-Res Elevation and Bathymetry
-++++++++++++++++++++++++++++++++++
-
-* `Seafloor mapping lab: bathymetry portal <http://seafloor.csumb.edu/csmp/csmp_datacatalog.html>`_
 
 Consumption
 ++++++++++++
